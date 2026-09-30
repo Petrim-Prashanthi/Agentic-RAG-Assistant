@@ -1,0 +1,11 @@
+[
+  {"question": "How long do refunds take?", "expected_source": "company_faq.md", "expected_keyword": "5-7 business days"},
+  {"question": "How much is the Pro plan?", "expected_source": "company_faq.md", "expected_keyword": "$49"},
+  {"question": "When is support available?", "expected_source": "company_faq.md", "expected_keyword": "9 AM"},
+  {"question": "How long are deleted projects kept?", "expected_source": "security.md", "expected_keyword": "14 days"},
+  {"question": "What encryption do you use?", "expected_source": "security.md", "expected_keyword": "AES-256"},
+  {"question": "Are you SOC 2 certified?", "expected_source": "security.md", "expected_keyword": "SOC 2"},
+  {"question": "How many team members on Starter?", "expected_source": "onboarding.md", "expected_keyword": "3 team members"},
+  {"question": "Where do I generate API keys?", "expected_source": "onboarding.md", "expected_keyword": "Settings"},
+  {"question": "Who is the CEO of Acme?", "expected_source": null, "expected_keyword": null}
+]
