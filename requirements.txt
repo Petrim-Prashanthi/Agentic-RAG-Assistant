@@ -1,0 +1,8 @@
+anthropic
+chromadb
+mcp
+fastapi
+uvicorn
+httpx
+python-dotenv
+pytest
